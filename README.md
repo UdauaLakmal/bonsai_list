@@ -1,5 +1,6 @@
 # bonsai_list
-bonsai used dropdown list 
-This include built li /ul  from JSON object even for multiple layers.
-This example used https://github.com/aexmachina/jquery-bonsai project
-Json object from http://json.org/example
+bonsai used to show dropdown list from JsonObject
+
+Example include built li /ul  from JSON object even for multiple inner layers. 
+This example based on https://github.com/aexmachina/jquery-bonsai project
+Sample json object used from http://json.org/example
